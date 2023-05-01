@@ -11,6 +11,7 @@ import mcereja.fluxapi.repository.PlaylistRepository;
 import reactor.core.publisher.Flux;
 
 /*
+ * MCereja - Maio 2023
  * Executa toda vez que a app starta, exclui todos registros existentes e insere
  *   novas linhas
  * Add o if false p/ignorar a partir do segundo start, pra nao ficar deletando e 
